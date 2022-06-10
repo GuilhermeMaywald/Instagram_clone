@@ -1,6 +1,6 @@
 # Clone Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Desafio de código com HTML, CSS com Flex Box!
 
 ### Os requisitos são:
 
